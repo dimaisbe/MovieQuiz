@@ -1,0 +1,20 @@
+Failed to rename file as the path '/Users/prinzipg/Desktop/xcode/MovieQuiz-ios/MovieQuiz/Services' already exists.
+Domain: com.apple.dt.SourceControlErrorDomain
+Code: -1100
+Recovery Suggestion: Specify a different target path or move aside the existing file.
+User Info: {
+    DVTErrorCreationDateKey = "2024-11-05 19:19:18 +0000";
+}
+--
+Failed to rename file as the path '/Users/prinzipg/Desktop/xcode/MovieQuiz-ios/MovieQuiz/Services' already exists.
+Domain: com.apple.dt.SourceControlErrorDomain
+Code: -1100
+Recovery Suggestion: Specify a different target path or move aside the existing file.
+--
+
+
+System Information
+
+macOS Version 15.0.1 (Build 24A348)
+Xcode 16.0 (23051) (Build 16A242d)
+Timestamp: 2024-11-05T22:19:18+03:00
