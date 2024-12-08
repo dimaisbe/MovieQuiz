@@ -10,4 +10,5 @@ import Foundation
 protocol QuestionFactoryProtocol {
     func resetQuestions()
     func requestNextQuestion()
+    func loadData()
 }
